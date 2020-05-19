@@ -1,3 +1,6 @@
+# React PlayCanvas Integration
+
+A demo for a react-playcanvas integration for rendering 3d glTF models.
 This project has been hosted here [link](https://react-playcanvas.firebaseapp.com/).
 
 ## Available Scripts
