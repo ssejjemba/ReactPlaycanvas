@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been hosted here [link](https://react-playcanvas.firebaseapp.com/).
 
 ## Available Scripts
 
