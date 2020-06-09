@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
-    "playcanvas": "^1.27.4",
+    "playcanvas": "^1.28.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
