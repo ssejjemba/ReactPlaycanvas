@@ -5373,9 +5373,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@7.0.4:
   version "7.0.4"
@@ -7731,10 +7731,10 @@ pkg-up@3.1.0, pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-playcanvas@^1.27.4:
-  version "1.28.2"
-  resolved "https://registry.yarnpkg.com/playcanvas/-/playcanvas-1.28.2.tgz#ed3a6eb6afd52ad0a2b36e4317403c5465b22ad5"
-  integrity sha512-u7XX2nv0dbXPL1uoQcZSJKG1rIOzDfaxsnFu9VuYzeJ9ZHDHRPDI6kH/Z64FD7bTsuKWMcOAYKJx/yI3SFajCA==
+playcanvas@^1.28.3:
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/playcanvas/-/playcanvas-1.37.0.tgz#5b4cf5b4b9f2251c7c22202c74771e89aa5fddc2"
+  integrity sha512-QUGrM01x9PALew8t/SgvdHIy2cIs/vYc9GnpHUigzYrOPGr5PlWbsYWqqE0zaWkLzcofXCZWx5EZDTp5kiM2qg==
 
 pn@^1.1.0:
   version "1.1.0"
